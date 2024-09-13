@@ -35,6 +35,7 @@ app.get('/', (req, res)=>{
     res.send("API working")
 })
 
+// listen on port 4000
 app.listen(port, ()=>{
     console.log(`server started on port ${port}`)
 })
