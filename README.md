@@ -39,7 +39,9 @@ A full-stack food delivery application built using the MERN stack with React + V
 
 ## Demo
 
-You can check out the live demo here: [Food Delivery App Demo](https://food-delivery-app-demo.com)
+You can check out the live demo here:([https://food-delivery-app-demo.com)](https://food-dev-app-admin.onrender.com)
+<br />
+<hr />
 
 ## Installation
 
