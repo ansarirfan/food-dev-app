@@ -37,11 +37,11 @@ A full-stack food delivery application built using the MERN stack with React + V
 - **Payment Integration**: Stripe
 - **Authentication**: JWT (JSON Web Tokens)
 
-## Demo
+## live
 
-You can check out the live demo here:  [https://food-dev-app-admin.onrender.com)](https://food-dev-app-admin.onrender.com)
+You can check out the live here:  [https://food-dev-app-admin.onrender.com](https://food-dev-app-admin.onrender.com)
 <br />
-You can check out the live demo here:  [https://food-dev-app.onrender.com](https://food-dev-app.onrender.com/)
+You can check out the live here:  [https://food-dev-app.onrender.com](https://food-dev-app.onrender.com/)
 <hr />
 
 ## Installation
